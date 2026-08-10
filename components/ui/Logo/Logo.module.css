@@ -1,0 +1,29 @@
+.logo {
+  position: relative;
+  width: 230px;
+  height: 47px;
+}
+
+.innerRed {
+  position: absolute;
+  left: 5.43px;
+  top: 8.35px;
+
+  /*
+  offset-path: path("M 0 0 C 0 0 0 0 0 0");
+  offset-distance: 0%;
+  offset-rotate: 0deg;
+  offset-anchor: 13.5px 17px;
+  */
+
+  transform-origin: 13.5px 17px;
+  transform: rotate(0deg);
+
+  transition:
+    transform 1.05s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.logo:hover .innerRed {
+  offset-distance: 100%;
+  transform: rotate(0deg);
+}
