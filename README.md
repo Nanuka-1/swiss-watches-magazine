@@ -87,4 +87,4 @@ The project successfully passes the Next.js production build.
 
 ## Live Demo
 
-Deployment link will be added here.
+https://swiss-watches-magazine.vercel.app/
