@@ -4,6 +4,10 @@ A pixel-focused recreation of the Swiss Watches Magazine interface based on a pr
 
 The project focuses on accurate layout implementation, typography, spacing, reusable UI components, and motion interactions.
 
+## Demo
+
+[▶ Watch project demo](./Video%20Project%20(2).mp4)
+
 ## Tech Stack
 
 - Next.js
