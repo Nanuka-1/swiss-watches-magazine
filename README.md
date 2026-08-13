@@ -6,7 +6,7 @@ The project focuses on accurate layout implementation, typography, spacing, reus
 
 ## Demo
 
-[▶ Watch project demo](./Video%20Project%20(2).mp4)
+[![Watch project demo](./Screenshot%202026-08-13%20133705.png)](./Video%20Project%201%20(1).mp4)
 
 ## Tech Stack
 
