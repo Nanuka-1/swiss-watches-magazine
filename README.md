@@ -8,6 +8,12 @@ The project focuses on accurate layout implementation, typography, spacing, reus
 
 [![Watch project demo](./demo-preview.png)](./demo.mp4)
 
+
+
+https://github.com/user-attachments/assets/0d9695da-081c-446a-b2be-16f3edb6fcd4
+
+
+
 ## Tech Stack
 
 - Next.js
