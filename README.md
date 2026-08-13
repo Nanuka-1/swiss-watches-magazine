@@ -81,27 +81,15 @@ public/
 
 Install dependencies:
 
-```bash
 npm install
-```
 
 Start the development server:
 
-```bash
 npm run dev
-```
 
 Create a production build:
 
-```bash
 npm run build
-```
-
-## Status
-
-Frontend implementation completed as a portfolio case study.
-
-The project successfully passes the Next.js production build.
 
 ## Live Demo
 
