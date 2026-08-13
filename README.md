@@ -21,12 +21,12 @@ https://github.com/user-attachments/assets/0d9695da-081c-446a-b2be-16f3edb6fcd4
 - TypeScript
 - Tailwind CSS
 - Framer Motion
-- Next/Image
-- SVG assets
 
 ## Implementation
 
-The interface was recreated from the Figma design and structured into reusable React components.
+The interface was recreated from a provided Figma design and structured into reusable React components.
+
+The implementation focuses on precise layout reproduction, typography, spacing, component structure, and interactive behavior.
 
 Implemented sections include:
 
@@ -40,20 +40,28 @@ Implemented sections include:
 - Newsletter
 - Videos
 
+The project uses a component-based structure for repeated UI patterns and data-driven rendering for reusable content sections.
+
+Next/Image is used for image rendering, while SVG assets exported from the provided design are integrated for logos, icons, and other graphical elements.
+
 ## Motion & Interaction
 
 Interactive elements were implemented with Framer Motion.
 
-The project uses reusable animation configurations for:
+Framer Motion is used to implement independent interactions for:
 
 - image hover
 - category hover
 - title hover
 - author hover
 - bookmark interaction
-- buttons
+- buttons and CTA elements
 
-Hover areas are intentionally independent, allowing each UI element to react separately rather than triggering animation for the entire card.
+Hover areas are intentionally independent, allowing individual UI elements to react separately rather than triggering animation for the entire card.
+
+Motion behavior includes image scaling, text movement, color transitions, animated accent lines, and button interactions.
+
+Custom easing and transition timing are used to create smooth forward animations with faster return transitions.
 
 ## Project Structure
 
